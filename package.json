@@ -34,6 +34,9 @@
     "safe-buffer": "5.1.2",
     "supertest": "4.0.2"
   },
+   "bin": {
+		   "body-parser": "index.js"
+   },
   "files": [
     "lib/",
     "LICENSE",
